@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @findsakshat
 - 👀 I’m interested in Backend + Frontend
 - 🌱 Working with NextJS and AI
-- 🚧 Building (@Infloso)[https://github.com/Infloso/infloso_next]
+- 🛠️ Building [Infloso](https://github.com/Infloso/infloso_next)
 - 📫 React out to me at: sakshat1998@gmail.com
 
 <!---
