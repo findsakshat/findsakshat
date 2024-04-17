@@ -2,7 +2,7 @@
 - 👀 I’m interested in web technologies
 - 🌱 Working with NextJS and AI
 - 🛠️ Currently building [Infloso](https://github.com/Infloso/infloso_next)
-- 🎯 Prev, built [thesidepath.in](https://thesidepath.in/) and [IOSF](https://github.com/IndianOpenSourceFoundation)
+- 🎯 Prev, built [thesidepath.in](https://thesidepath.in/) and [Indian Open Source Foundation](https://github.com/IndianOpenSourceFoundation)
 - 📫 Mail: sakshat1998@gmail.com
 
 <!---
